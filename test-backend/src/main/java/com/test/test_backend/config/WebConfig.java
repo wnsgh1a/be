@@ -1,4 +1,4 @@
-package com.test.backend.config;
+package com.test.test_backend.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
